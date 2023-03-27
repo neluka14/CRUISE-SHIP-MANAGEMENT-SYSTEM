@@ -1,3 +1,0 @@
-Tom,Holland,1234,cosmetic dermatology,
-Sally,Rivers,1412,medical dermatology,
-Sam,Alexander,1413,medical dermatology,
